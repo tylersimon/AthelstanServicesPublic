@@ -2,7 +2,6 @@
 
 The company website, published with GitHub Pages.
 
-Before publishing, replace `[CONTACT_EMAIL]` and `[COMPANY_NUMBER]` in `docs/index.md`.
 
 Repo: `AthelstanServicesPublic` (github.com/tylersimon/AthelstanServicesPublic).
 

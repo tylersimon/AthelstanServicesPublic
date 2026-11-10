@@ -20,12 +20,12 @@ Athelstan Services is a UK company founded by Simon Tyler, a specialist in email
 
 ## Contact
 
-[CONTACT_EMAIL]
+[info@athelstanservices.co.uk](mailto:info@athelstanservices.co.uk)
 
 ## Company details
 
 Athelstan Services Ltd  
-Registered in England and Wales, company number [COMPANY_NUMBER]  
+Registered in England and Wales, company number 15370326  
 Registered office: 41-43 Market Place, Chippenham, SN15 3HR
 
 © 2026 Athelstan Services Ltd
