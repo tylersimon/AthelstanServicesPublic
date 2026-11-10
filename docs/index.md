@@ -6,7 +6,7 @@ title: Athelstan Services Ltd
 
 **Email security and messaging expertise, and simple, private apps.**
 
-Athelstan Services is a UK company founded by Simon Tyler and Jackie Maylor, specialists in email security and named inventors on more than 25 patents in the field, covering areas such as domain impersonation detection, malware detection and login credential warnings.
+Athelstan Services is a UK company with long experience in email security, including work behind more than 25 patents in the field, covering areas such as domain impersonation detection, malware detection and login credential warnings.
 
 ## What we do
 
