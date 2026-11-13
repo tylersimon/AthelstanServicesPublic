@@ -28,4 +28,6 @@ Athelstan Services Ltd
 Registered in England and Wales, company number 15370326  
 Registered office: 41-43 Market Place, Chippenham, SN15 3HR
 
+[Privacy Policy](privacy)
+
 © 2026 Athelstan Services Ltd
